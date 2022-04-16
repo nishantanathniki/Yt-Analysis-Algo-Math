@@ -1,0 +1,31 @@
+n,i and all char represent a value of type int 
+
+// Total Days To Particular Values Result 
+days -> n //should be in days instead month formula(month*30)
+subs -> i
+30 days -> ?? -> d
+
+days/subs = d/o = oO
+
+
+// Total Month Subs Increase in a month 
+days = n
+month = i
+days / i = o
+
+// Last Month Subs Contributionon on total subs (o in percentage)
+
+lastMonthSubs = n
+totalSubs = i
+toatSubs *(lastMonthSubs/100) = o
+
+//month to day to hour to min to sec to mili per day sub 
+day=90
+month = 3
+m = 90/3 = 30
+perday = 30/24 = 1.25 per Day subs
+perHour = perDay/60 =0.020833333333333332 per Hour
+perMin = perHour /60  = 0.0003472222222222222 perMin
+perSec = perMin /60 = 5.787037037037037e-06 perSec (btw o is not bigger than perMin o)
+perMili = perSec/1000 = 5.787037037037037e-09 perMili (, ,. , , , ,)
+
